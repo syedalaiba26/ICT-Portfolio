@@ -1,115 +1,142 @@
-# 🚀 ICT Portfolio
+<!--
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SYEDA LAIBA ZAFAR · SP26-BSSE-0002 · MAJU · 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Student-BSSE-blue" alt="BSSE Student">
-  <img src="https://img.shields.io/badge/Semester-1-green" alt="Semester 1">
-  <img src="https://img.shields.io/badge/University-MAJU-red" alt="MAJU">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active">
-</div>
+<br/>
 
----
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        S Y E D A   L A I B A   Z A F A R                    ║
+║                                                              ║
+║        Software Engineering · MAJU · Karachi                 ║
+║        SP26-BSSE-0002 · Semester I · Spring 2026             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 👤 Personal Information
+<br/>
 
-<div align="center">
-
-| Field            | Details                                                              |
-|------------------|----------------------------------------------------------------------|
-| **Name**         | Syeda Laiba Zafar                                                    |
-| **Registration** | SP26-BSSE-0002                                                       |
-| **Program**      | BSSE — Bachelor of Software Engineering                              |
-| **Semester**     | 1                                                                    |
-| **University**   | Mohammad Ali Jinnah University, Karachi                              |
-| **Course**       | CS1260 — Application of Information & Communication Technology       |
-
-</div>
-
----
-
-## 📖 About Me
-
-<div align="justify">
-
-I am a first-semester Bachelor of Software Engineering student at Mohammad Ali Jinnah University,
-Karachi. I'm passionate about technology, problem-solving, and building things that make a
-difference. My academic journey has just begun, but I'm already diving deep into programming
-fundamentals, software design principles, and the tools that modern developers rely on every day.
-
-I believe that the best way to learn software engineering is to actually build — to write code,
-make mistakes, and iterate. That philosophy shapes how I approach every assignment, project, and
-new concept I encounter. Whether it's setting up my first GitHub repository or publishing my
-first LinkedIn post, I'm committed to growing my technical presence alongside my academic one.
-
-This portfolio is a living record of that growth — from day one of Semester 1 onward.
+[![Program](https://img.shields.io/badge/BSSE-Bachelor%20of%20Software%20Engineering-0a0a0a?style=flat-square&labelColor=e8ff00&color=0a0a0a)](https://maju.edu.pk)
+[![Semester](https://img.shields.io/badge/SEMESTER-I-0a0a0a?style=flat-square&labelColor=ff4a4a&color=0a0a0a)](https://maju.edu.pk)
+[![Course](https://img.shields.io/badge/CS1260-ICT%20Application-0a0a0a?style=flat-square&labelColor=4af0ff&color=0a0a0a)](https://maju.edu.pk)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-0a0a0a?style=flat-square&labelColor=00ff88&color=0a0a0a)](https://github.com/syedalaiba26)
 
 </div>
 
 ---
 
-## 💻 Technical Competencies
+<br/>
+
+## ▌ WHO AM I
+
+> *"The best way to learn software engineering is to actually build — write code, make mistakes, and iterate."*
+
+I'm a first-semester **Bachelor of Software Engineering** student at Mohammad Ali Jinnah University, Karachi — diving headfirst into programming fundamentals, software design principles, and the tooling that modern developers live by.
+
+This is not just a portfolio. It's a **log of becoming** — every commit, every concept, every line of code that takes me from where I am to where I'm going.
+
+<br/>
+
+---
+
+## ▌ IDENTITY
+
+```yaml
+name        : Syeda Laiba Zafar
+reg_no      : SP26-BSSE-0002
+program     : Bachelor of Software Engineering (BSSE)
+university  : Mohammad Ali Jinnah University, Karachi
+semester    : 1st  ·  Spring 2026
+course      : CS1260 — Application of ICT
+```
+
+<br/>
+
+---
+
+## ▌ STACK
+
+```
+LANGUAGES         ████████████░░░░   Python · JavaScript · HTML5 · CSS3
+
+FRONTEND          ████████░░░░░░░░   HTML · CSS · Vanilla JS
+
+TOOLS             ██████████░░░░░░   Git · GitHub · VS Code
+
+IN PROGRESS       ████░░░░░░░░░░░░   React.js · Node.js · Databases
+```
+
+<br/>
+
+---
+
+## ▌ PROJECTS
+
+<br/>
+
+### `01` — ICT Portfolio
+
+```
+TYPE     →   Academic · Assignment 01
+COURSE   →   CS1260 — Application of ICT
+REPO     →   github.com/syedalaiba26/ICT-Portfolio
+```
+
+My first structured GitHub repository. Built as part of CS1260 at MAJU — contains a detailed README with personal and academic information, and an `about_me.txt` introducing my goals as a software engineering student. The starting point of everything.
+
+<br/>
+
+---
+
+## ▌ GITHUB METRICS
 
 <div align="center">
+<br/>
 
-### 🛠️ Technologies & Tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedalaiba26&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e8ff00&icon_color=4af0ff&text_color=ffffff&border_color=333333&hide_border=false&include_all_commits=true&count_private=true)
 
-| Category                  | Technologies                                              |
-|---------------------------|-----------------------------------------------------------|
-| **Programming Languages** | `Python` `JavaScript` `HTML5` `CSS3`                      |
-| **Frontend Development**  | `HTML` `CSS` `Basic JavaScript`                           |
-| **Developer Tools**       | `Git` `GitHub` `Visual Studio Code`                       |
-| **Currently Learning**    | `React.js` `Node.js` `Database Management`                |
+<br/>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalaiba26&layout=compact&theme=dark&bg_color=0d0d0d&title_color=e8ff00&text_color=ffffff&border_color=333333&hide_border=false&langs_count=8)
+
+<br/>
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## ▌ REACH ME
 
-<div align="center">
+<br/>
 
-### 1. 📁 ICT Portfolio — Academic Portfolio Repository
+```
+⬡  GITHUB     →   github.com/syedalaiba26
+⬡  LINKEDIN   →   linkedin.com/in/syeda-laiba-zafar-6a83a43b3
+```
 
-> **Category:** `Academic` | **Live:** [GitHub Repository](https://github.com/syedalaiba26/ICT-Portfolio)
+<br/>
 
-My first structured GitHub repository, created as part of CS1260 at MAJU. It contains a
-detailed README with personal and academic information, and an about_me.txt file introducing
-myself and my goals as a software engineering student.
+| | |
+|---|---|
+| **GitHub** | [github.com/syedalaiba26](https://github.com/syedalaiba26) |
+| **LinkedIn** | [linkedin.com/in/syeda-laiba-zafar-6a83a43b3](https://www.linkedin.com/in/syeda-laiba-zafar-6a83a43b3) |
 
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedalaiba26&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalaiba26&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-| Platform        | Link                                                                                                                   |
-|-----------------|------------------------------------------------------------------------------------------------------------------------|
-| **🔗 GitHub**   | [github.com/syedalaiba26](https://github.com/syedalaiba26)                                                             |
-| **💼 LinkedIn** | [linkedin.com/in/syeda-laiba-zafar-6a83a43b3](https://www.linkedin.com/in/syeda-laiba-zafar-6a83a43b3)               |
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
+<br/>
 
-**📚 CS1260 — Application of Information & Communication Technology · Assignment 01 · MAJU Spring 2026**
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CS1260 · Assignment 01 · MAJU · 2026
+  Syeda Laiba Zafar · SP26-BSSE-0002
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
----
-
-*🌟 Thank you for visiting my portfolio! Feel free to explore my work and connect with me.*
-
+<br/>
 </div>
